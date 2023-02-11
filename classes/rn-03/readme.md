@@ -36,3 +36,10 @@ npm install @react-navigation/bottom-tabs@6.0.5 @react-navigation/native@6.0.2 @
 Agora para finalizar faça o download dos assets 
 
 [assets.zip](https://github.com/ismaelsousa/RNI/files/10714279/assets.zip)
+
+Crie uma pasta no seu projeto chamada `src` e coloque os `assets` dentro dela
+
+```
+- src
+  - assets
+```
