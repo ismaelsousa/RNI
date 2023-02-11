@@ -9,7 +9,7 @@
 
 O styled-component oferece uma forma muito boa de trabalhar com temas no nosso app, então vamos definir cores e espaçamentos do nosso app para que seja padrão por toda aplicação.
 
-Para facilitar copie as cores abaixo que foram retiradas do Figma
+Para facilitar copie as cores abaixo que foram retiradas do [Figma](https://www.figma.com/file/0jGlxxKJD82RpG9FTRfecD/TVMaze?node-id=2%3A7&t=VtU8K4Mm3wopyNpk-0)
 
 ```
 export const primary = '#000000';
