@@ -22,4 +22,5 @@ Se aparecer a versão conforme o padrão acima então já podemos continuar 🚀
 
 Agora vamos fazer o download do projeto para o seu computador (assista a aula para ver o procedimento 📺)
 
-[Link para baixar o projeto]()
+[Link para baixar o projeto](https://github.com/ismaelsousa/tv-maze)
+
