@@ -8,3 +8,5 @@ Aqui você vai encontrar todo material necessário para a formação 🧩📚
 `RNI - 02`: [Link para o figma](https://www.figma.com/file/0jGlxxKJD82RpG9FTRfecD/TVMaze?t=K1baqiMcffrY9Nd5-0)
 
 `RNI - 03`: [Iniciando o projeto](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-03)
+
+`RNI - 04`: [Criando tema do app](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-04)
