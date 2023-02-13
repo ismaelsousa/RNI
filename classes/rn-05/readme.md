@@ -1,5 +1,10 @@
 # Nessa aula vamos criar o componente de texto que será usado em todo o app
 
+# Typescript
+
+Nesse vídeo eu mostro tudo que você precisa saber sobre `Typescript`
+
+[Link para o vídeo](https://youtu.be/5oOVQIP_mpU)
 
 # Branch
 
