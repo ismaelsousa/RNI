@@ -32,6 +32,12 @@ export const alert = '#943C3C';
 
 Crie uma nova branch para a aula `rn-04`
 
+# Dependências de desenvolvimento
+
+```bash
+npm i @types/styled-components @types/styled-components-react-native  --save-dev
+```
+
 # Arquivos
 
 Nessa aula vamos cria esses arquivos e você pode acompanhar todas as modificações realizadas através do github.
