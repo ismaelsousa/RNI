@@ -53,6 +53,6 @@ Nessa aula vamos cria esses arquivos e você pode acompanhar todas as modificaç
 
 🗳️ `src/App.tsx` 
 
-# Código implementado na aula
+# 🗳️ Código implementado na aula
 
 [Pull Request #1](https://github.com/ismaelsousa/tv-maze-tutorial/pull/1)
