@@ -35,7 +35,7 @@ Crie uma nova branch para a aula `rn-04`
 # Dependências de desenvolvimento
 
 ```bash
-npm i @types/styled-components @types/styled-components-react-native  --save-dev
+npm i @types/styled-components@5.1.13 @types/styled-components-react-native@5.1.1  --save-dev
 ```
 
 # Arquivos
