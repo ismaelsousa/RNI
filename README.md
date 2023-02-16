@@ -12,3 +12,5 @@ Aqui você vai encontrar todo material necessário para a formação 🧩📚
 `RNI - 04`: [Criando o tema do app](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-04)
 
 `RNI - 05`: [Criando o componente de Text](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-05)
+
+`RNI - 06`: [Criando o componente Spacer](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-06)
