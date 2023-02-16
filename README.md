@@ -14,3 +14,7 @@ Aqui você vai encontrar todo material necessário para a formação 🧩📚
 `RNI - 05`: [Criando o componente de Text](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-05)
 
 `RNI - 06`: [Criando o componente Spacer](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-06)
+
+`RNI - 07`: [Criando o componente Container](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-07)
+
+`RNI - 08`: [Criando o componente Content](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-08)
