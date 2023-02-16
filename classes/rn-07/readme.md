@@ -1,6 +1,6 @@
 # Nessa aula vamos criar o componente Container que será usado em todo o app
 
-A ideia do compoente é a gente não precisa ficar criando views que se expandem por todo o espaço disponível e sempre com uma cor de background que vai vir do nosso tema do styled.
+A ideia do compoente Container é a gente não precisa ficar criando views que se expandem por todo o espaço disponível e sempre com uma cor de background que vai vir do nosso tema do styled.
 
 Nessa aula também conhecemos o conceito de Flexbox e aplicamos o `flex:1` o nosso container
 
