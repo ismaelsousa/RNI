@@ -91,4 +91,4 @@ export interface ShowModel {
 
 # 🗳️ Código implementado na aula
 
-[Pull Request](https://github.com/ismaelsousa/tv-maze-tutorial/pull/15)
+[Pull Request](https://github.com/ismaelsousa/tv-maze-tutorial/pull/16)
