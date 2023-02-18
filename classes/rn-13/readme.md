@@ -2,7 +2,7 @@
 
 A ideia do compoente Input é digitar as buscas por filmes e atores.
 
-Nessa aula conhecemos o [`TextInput`](https://reactnative.dev/docs/textinput) e o [`ActivityIndicator`](https://reactnative.dev/docs/activityindicator) do React Native.
+Nessa aula conhecemos o [`Plafform.OS`](https://reactnative.dev/docs/platform), [`TextInput`](https://reactnative.dev/docs/textinput), e o [`ActivityIndicator`](https://reactnative.dev/docs/activityindicator) do React Native.
 # Branch
 
 Crie uma nova branch para a aula `rn-13`
