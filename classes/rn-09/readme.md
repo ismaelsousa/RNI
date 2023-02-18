@@ -21,6 +21,11 @@ Nessa aula vamos cria esses arquivos e você pode acompanhar todas as modificaç
 
 🗳️ `src/common/components/Icon/index.tsx`
 
+🗳️ `src/@types/image.d.ts`
+```js
+declare module '*.png';
+```
+
 🗳️ `src/common/constants/icons.ts`
 
 ```js
