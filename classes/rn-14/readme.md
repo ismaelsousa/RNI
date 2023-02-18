@@ -29,7 +29,7 @@ Para conseguir o aspect ratio de determinada imagem basta dividir a altura pela 
 `r` = `9/12.5` = `0,72` 
 
 
-Crie uma nova branch para a aula `rn-13`
+Crie uma nova branch para a aula `rn-14`
 
 # Arquivos
 
