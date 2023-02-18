@@ -24,3 +24,5 @@ Aqui você vai encontrar todo material necessário para a formação 🧩📚
 `RNI - 10`: [Criando o componente Avatar](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-10)
 
 `RNI - 11`: [Criando o componente BackButton](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-11)
+
+`RNI - 12`: [Criando o componente NotFound](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-12)
