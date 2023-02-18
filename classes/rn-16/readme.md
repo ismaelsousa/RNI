@@ -2,6 +2,9 @@
 
 A ideia do compoente EpisodeCard é mostrar o episódios completo.
 
+Nessa aula conhecemos o [`useState`](https://beta.reactjs.org/reference/react/useState) e o operador de [`Encadeamento opcional`](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
+
+
 [`TV MAZE API`](https://www.tvmaze.com/api)
 
 `Example:` https://api.tvmaze.com/singlesearch/shows?q=girls&embed=episodes
