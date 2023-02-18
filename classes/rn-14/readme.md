@@ -22,7 +22,7 @@ Dentro de cada show tem a proprietade de `image` dessa forma:
 
 ```
 
-Essa imagem seguem o aspect ratio de `9/12.5`
+Essa imagem segue o aspect ratio de `9/12.5`
 
 Para conseguir o aspect ratio de determinada imagem basta dividir a altura pela largura.
 
