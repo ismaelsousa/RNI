@@ -1,4 +1,4 @@
-# Nessa aula aprender a usar a navegação
+# Nessa aula vamos aprender a usar a navegação
 
 Navegar é basicamente criar novas telas poder ir e vir entre diferentes telas com diferentes informações. 
 
