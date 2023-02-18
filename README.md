@@ -18,3 +18,5 @@ Aqui você vai encontrar todo material necessário para a formação 🧩📚
 `RNI - 07`: [Criando o componente Container](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-07)
 
 `RNI - 08`: [Criando o componente Content](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-08)
+
+`RNI - 09`: [Criando o componente Icon](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-09)
