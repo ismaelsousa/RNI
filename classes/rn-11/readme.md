@@ -2,6 +2,8 @@
 
 A ideia do compoente BackButton é fazer um botão padrão para a ação de voltar na navegação que a gente vai ver em aulas futuras.
 
+Também conhecemos o componente [`Pressable`](https://reactnative.dev/docs/pressable) do React-Native
+
 # Branch
 
 Crie uma nova branch para a aula `rn-11`
