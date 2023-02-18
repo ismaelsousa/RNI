@@ -44,3 +44,5 @@ Aqui você vai encontrar todo material necessário para a formação 🧩📚
 `RNI - 20`: [Listando shows na home](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-20)
 
 `RNI - 21`: [Navegando para tela de detalhes](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-21)
+
+`RNI - 22`: [Criando componente local para a tela de detalhes](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-22)
