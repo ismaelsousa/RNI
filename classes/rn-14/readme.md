@@ -1,5 +1,7 @@
 # Nessa aula vamos criar o componente ShowCover que será usado em todo o app
 
+Vamos conhecer o [`useWindowDimensions`](https://reactnative.dev/docs/usewindowdimensions), [`useMemo`](https://beta.reactjs.org/reference/react/useMemo), e o [`memo`](https://beta.reactjs.org/reference/react/memo)
+
 A ideia do compoente ShowCover é mostrar as capas dos filmes e para isso já vamos conhecer a API do TV MAZE.
 
 [`TV MAZE API`](https://www.tvmaze.com/api)
