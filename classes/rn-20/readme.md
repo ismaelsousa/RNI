@@ -1,3 +1,5 @@
+# Nessa aula vamos implementar nossa tela de home
+
 Nessa aula conhecemos o [`RefreshControl`](https://reactnative.dev/docs/refreshcontrol), e o [`Flatlist`](https://reactnative.dev/docs/flatlist)
 
 # Arquivos
