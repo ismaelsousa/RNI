@@ -21,6 +21,8 @@ Nessa aula vamos cria esses arquivos e você pode acompanhar todas as modificaç
 
 🗳️ `src/common/components/Icon/index.tsx`
 
+🗳️ `src/common/constants/icons.ts`
+
 
 # 🗳️ Código implementado na aula
 
