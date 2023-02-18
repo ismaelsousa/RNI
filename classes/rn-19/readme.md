@@ -1,4 +1,4 @@
-# Nessa aula vamos tipar nosso serviço http
+# Nessa aula vamos tipar e usar o nosso serviço http
 
 A gente vai usar a api do `TV MAZE`
 
