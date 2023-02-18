@@ -32,3 +32,5 @@ Aqui você vai encontrar todo material necessário para a formação 🧩📚
 `RNI - 14`: [Criando o componente ShowCover](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-14)
 
 `RNI - 15`: [Criando o componente EpisodeCover](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-15)
+
+`RNI - 16`: [Criando o componente EpisodeCard](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-16)
