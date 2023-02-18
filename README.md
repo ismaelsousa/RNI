@@ -38,3 +38,5 @@ Aqui você vai encontrar todo material necessário para a formação 🧩📚
 `RNI - 17`: [Criando primeira navegação do app](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-17)
 
 `RNI - 18`: [Criando primeiro serviço http](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-18)
+
+`RNI - 19`: [Criando os tipos e usando nosso serviço http](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-19)
