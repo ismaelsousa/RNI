@@ -4,6 +4,8 @@ A gente vai usar a api do `TV MAZE`
 
 `Endpoint:  https://api.tvmaze.com/shows?page=1`
 
+Nessa aula conhecemos o [`useEffect`](https://beta.reactjs.org/reference/react/useEffect), o [`useCallback`](https://beta.reactjs.org/reference/react/useCallback) e o [`MVVM`](https://youtu.be/RGRfXh54d9U)
+
 # Arquivos
 
 Nessa aula vamos cria esses arquivos e você pode acompanhar todas as modificações realizadas através do github.
