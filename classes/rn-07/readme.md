@@ -2,7 +2,9 @@
 
 A ideia do compoente Container é a gente não precisa ficar criando views que se expandem por todo o espaço disponível e sempre com uma cor de background que vai vir do nosso tema do styled.
 
-Nessa aula também conhecemos o conceito de Flexbox e aplicamos o `flex:1` o nosso container
+Nessa aula também conhecemos o conceito de Flexbox e aplicamos o `flex:1` o nosso containe)
+
+[Link do vídeo completo sobre flexbox no youtube](https://youtu.be/ynk-qGB9rT4)
 
 # Branch
 
