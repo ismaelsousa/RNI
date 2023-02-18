@@ -28,3 +28,5 @@ Aqui você vai encontrar todo material necessário para a formação 🧩📚
 `RNI - 12`: [Criando o componente NotFound](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-12)
 
 `RNI - 13`: [Criando o componente Input](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-13)
+
+`RNI - 14`: [Criando o componente ShowCover](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-14)
