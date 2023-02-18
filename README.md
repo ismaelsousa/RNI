@@ -26,3 +26,5 @@ Aqui você vai encontrar todo material necessário para a formação 🧩📚
 `RNI - 11`: [Criando o componente BackButton](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-11)
 
 `RNI - 12`: [Criando o componente NotFound](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-12)
+
+`RNI - 13`: [Criando o componente NotFound](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-13)
