@@ -46,3 +46,5 @@ Aqui você vai encontrar todo material necessário para a formação 🧩📚
 `RNI - 21`: [Navegando para tela de detalhes](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-21)
 
 `RNI - 22`: [Criando componente local para a tela de detalhes](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-22)
+
+`RNI - 23`: [Criando serviços para buscar as temporadas e os episódios](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-23)
