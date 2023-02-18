@@ -40,3 +40,5 @@ Aqui você vai encontrar todo material necessário para a formação 🧩📚
 `RNI - 18`: [Criando primeiro serviço http](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-18)
 
 `RNI - 19`: [Criando os tipos e usando nosso serviço http](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-19)
+
+`RNI - 20`: [Listando shows na home](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-20)
