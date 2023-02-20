@@ -9,6 +9,8 @@ Nessa aula vamos cria esses arquivos e você pode acompanhar todas as modificaç
 
 🗳️ `src/screens/Person/person.view.ts`
 
+🗳️ `src/screens/Person/styles.ts`
+
 # 🗳️ Código implementado na aula
 
 [Pull Request](https://github.com/ismaelsousa/tv-maze-tutorial/pull)
