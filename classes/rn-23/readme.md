@@ -17,6 +17,8 @@ Nessa aula vamos cria esses arquivos e você pode acompanhar todas as modificaç
 
 🗳️ `src/screens/Detail/detail.controller.tsx`
 
+🗳️ `src/screens/Detail/types.tsx`
+
 # 🗳️ Código implementado na aula
 
 [Pull Request](https://github.com/ismaelsousa/tv-maze-tutorial/pull/19)
