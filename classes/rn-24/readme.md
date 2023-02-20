@@ -18,6 +18,8 @@ Nessa aula vamos cria esses arquivos e você pode acompanhar todas as modificaç
 
 `obs.:` cada aula será finalizada com um `commit` e um `pull request` que você poderá copiar e verificar todo o código final 🔥🤌
 
+🗳️ `src/repositories/api.ts`
+
 🗳️ `src/screens/Detail/detail.controller.tsx`
 
 
