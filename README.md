@@ -54,3 +54,5 @@ Aqui você vai encontrar todo material necessário para a formação 🧩📚
 `RNI - 25`: [Finalizando tela de Detalhes](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-25)
 
 `RNI - 26`: [Finalizando tela de Detalhes - Parte 2](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-26)
+
+`RNI - 27`: [Estado global](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-27)
