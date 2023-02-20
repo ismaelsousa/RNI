@@ -61,3 +61,5 @@ Aqui você vai encontrar todo material necessário para a formação 🧩📚
 
 `RNI - 29`: [Criando tela de favoritos](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-29)
 
+`RNI - 30`: [Criando repositórios para tela de search](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-30)
+
