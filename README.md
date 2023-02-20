@@ -61,9 +61,11 @@ Aqui você vai encontrar todo material necessário para a formação 🧩📚
 
 `RNI - 29`: [Criando tela de favoritos](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-29)
 
-`RNI - 30`: [Criando repositórios para tela de search](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-30)
+`RNI - 30`: [Criando repositórios para a tela de search](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-30)
 
-`RNI - 31`: [Criando o controller para tela de search](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-31)
+`RNI - 31`: [Criando o controller para a tela de search](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-31)
 
 `RNI - 32`: [Criando tela de search](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-32)
+
+`RNI - 33`: [Criando o controller para a tela de person](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-33)
 
