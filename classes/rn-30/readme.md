@@ -16,6 +16,8 @@ Nessa aula vamos cria esses arquivos e você pode acompanhar todas as modificaç
 
 🗳️ `src/repositories/search/showsByText/types.ts`
 
+🗳️ `src/common/models/showByText.model.ts`
+
 🗳️ `src/common/models/peopleByText.model.ts`
 
 🗳️ `src/common/models/person.model.ts`
