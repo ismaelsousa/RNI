@@ -71,5 +71,5 @@ Aqui você vai encontrar todo material necessário para a formação 🧩📚
 
 `RNI - 34`: [Criando a tela de person](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-34)
 
-`RNI - 35`: [Criando a tela de person](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-35)
+`RNI - 35`: [Congrats](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-35)
 
