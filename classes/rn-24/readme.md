@@ -1,4 +1,4 @@
-# Nessa aula vamos tratar os dados do show para mostar na tela de detalhes e conhecendo o interceptor
+# Nessa aula vamos tratar os dados do show para mostar na tela de detalhes e conhecer o interceptor
 
 O interceptor serve para interceptar requisições sejam elas request ou reponse.
 
