@@ -52,3 +52,5 @@ Aqui você vai encontrar todo material necessário para a formação 🧩📚
 `RNI - 24`: [Trantando dados para mostar na tela de detalhes e conhecendo o interceptor](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-24)
 
 `RNI - 25`: [Finalizando tela de Detalhes](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-25)
+
+`RNI - 26`: [Finalizando tela de Detalhes - Parte 2](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-26)
