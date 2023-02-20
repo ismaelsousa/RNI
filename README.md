@@ -63,3 +63,5 @@ Aqui você vai encontrar todo material necessário para a formação 🧩📚
 
 `RNI - 30`: [Criando repositórios para tela de search](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-30)
 
+`RNI - 31`: [Criando o controller para tela de search](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-31)
+
