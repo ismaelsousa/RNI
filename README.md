@@ -59,3 +59,5 @@ Aqui você vai encontrar todo material necessário para a formação 🧩📚
 
 `RNI - 28`: [Adicionando show aos favoritos](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-28)
 
+`RNI - 29`: [Criando tela de favoritos](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-29)
+
