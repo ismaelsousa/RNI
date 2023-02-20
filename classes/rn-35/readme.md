@@ -2,8 +2,7 @@
 
 ## Parabéns por toda essa jornada no mundo do React Native! 
 
----
-
+<br/>
 ### Existe muito mais para você aprender, mas como eu digo uma peça(🧩) por vez que se monta o quebra-cabeça. 🎉🎉🎉
 
 <br/>
