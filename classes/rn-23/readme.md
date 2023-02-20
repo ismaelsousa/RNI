@@ -9,7 +9,11 @@ Nessa aula vamos cria esses arquivos e você pode acompanhar todas as modificaç
 
 🗳️ `src/repositories/seasons/seasons.repository.ts`
 
+🗳️ `src/repositories/seasons/types.ts`
+
 🗳️ `src/repositories/episodes/episodes.repository.ts`
+
+🗳️ `src/repositories/episodes/types.ts`
 
 🗳️ `src/screens/Detail/detail.controller.tsx`
 
