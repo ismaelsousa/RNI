@@ -69,3 +69,5 @@ Aqui você vai encontrar todo material necessário para a formação 🧩📚
 
 `RNI - 33`: [Criando o controller para a tela de person](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-33)
 
+`RNI - 34`: [Criando a tela de person](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-34)
+
