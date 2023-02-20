@@ -21,4 +21,4 @@ Nessa aula vamos cria esses arquivos e você pode acompanhar todas as modificaç
 
 # 🗳️ Código implementado na aula
 
-[Pull Request](https://github.com/ismaelsousa/tv-maze-tutorial/pull/19)
+[Pull Request](https://github.com/ismaelsousa/tv-maze-tutorial/pull)
