@@ -1,7 +1,10 @@
 # Nessa aula vamos aprender como lidar com estados globais
 
+![https://medium.com/reactbrasil/entendendo-a-context-api-do-react-criando-um-componente-de-loading-a84f84007dc7](https://miro.medium.com/max/1400/1*iRo2eoxlAjNL59nln5sQFA.png)
+
 Nessa aula vamos conhecer o [`Context`](https://reactjs.org/docs/context.html) para lidar como nossos estados globais
 # Arquivos
+
 
 Nessa aula vamos cria esses arquivos e você pode acompanhar todas as modificações realizadas através do github.
 
