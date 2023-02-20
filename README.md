@@ -57,5 +57,5 @@ Aqui você vai encontrar todo material necessário para a formação 🧩📚
 
 `RNI - 27`: [Estado global](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-27)
 
-`RNI - 28`: [Estado global](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-28)
+`RNI - 28`: [Adicionando show aos favoritos](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-28)
 
