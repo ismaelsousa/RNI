@@ -50,3 +50,5 @@ Aqui você vai encontrar todo material necessário para a formação 🧩📚
 `RNI - 23`: [Criando serviços para buscar as temporadas e os episódios](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-23)
 
 `RNI - 24`: [Trantando dados para mostar na tela de detalhes e conhecendo o interceptor](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-24)
+
+`RNI - 25`: [Finalizando tela de Detalhes](https://github.com/ismaelsousa/RNI/tree/main/classes/rn-25)
